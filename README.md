@@ -1,4 +1,4 @@
-# WIRA Data Intelligence Workflow
+# WIRA Data Science
 
 Repositori yang mendokumentasikan seluruh workflow Data Science pada proyek WIRA, mulai dari pengumpulan dan integrasi data spasial, analisis eksploratif, feature engineering, hingga pembentukan dataset siap AI untuk mendukung pengambilan keputusan lokasi bisnis berbasis data.
 
