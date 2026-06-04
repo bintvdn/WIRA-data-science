@@ -1,9 +1,21 @@
-run in terminals:
+## 🚀 Running the Dashboard
 
-1. pip install -r requirements.txt
+### Run Locally
 
-2. streamlit run app.py
+Install the required dependencies:
 
-or access link bellow
+```bash
+pip install -r requirements.txt
+```
 
-https://wira-dashboard.streamlit.app/
+Start the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+### Access Online
+
+The dashboard is also available at:
+
+🌐 https://wira-dashboard.streamlit.app/
