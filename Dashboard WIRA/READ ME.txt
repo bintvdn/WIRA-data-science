@@ -1,21 +1,39 @@
-## 🚀 Running the Dashboard
+## WIRA Dashboard Analytics
 
-### Run Locally
+Dashboard interaktif WIRA digunakan untuk mengeksplorasi hasil analisis spasial, melihat distribusi potensi bisnis, serta memvisualisasikan berbagai insight yang diperoleh dari proses Data Science dan Artificial Intelligence.
 
-Install the required dependencies:
+### Menjalankan Dashboard Secara Lokal
+
+Install seluruh dependency yang dibutuhkan:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Start the Streamlit application:
+Jalankan aplikasi Streamlit:
 
 ```bash
 streamlit run app.py
 ```
 
-### Access Online
+Dashboard akan tersedia pada:
 
-The dashboard is also available at:
+```text
+http://localhost:8501
+```
 
-🌐 https://wira-dashboard.streamlit.app/
+### Akses Dashboard Online
+
+Dashboard juga dapat diakses melalui deployment Streamlit Cloud:
+
+🔗 https://wira-dashboard.streamlit.app/
+
+### 📌 Fitur Dashboard
+
+- Business Opportunity Analysis
+- Location Intelligence Visualization
+- Business Ecosystem Analytics
+- Competitor Distribution Analysis
+- Accessibility & Traffic Analysis
+- AI-Based Business Recommendation Results
+- Interactive Maps & Spatial Insights
