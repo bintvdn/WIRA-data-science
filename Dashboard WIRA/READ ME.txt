@@ -1,0 +1,9 @@
+run in terminals:
+
+1. pip install -r requirements.txt
+
+2. streamlit run app.py
+
+or access link bellow
+
+https://wira-dashboard.streamlit.app/
